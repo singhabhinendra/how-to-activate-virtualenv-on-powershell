@@ -15,4 +15,5 @@ Instead Run the file at location .\Scripts\activate.ps1.
 # Fourth Solution 
 Use the Unix like command Shells Instead of Powershell for example Git Bash is lightweight CLI Tool.
 
-# If you found this useful then please share this and follow me and star this repo.So this will be more useful for others.
+# If you found this useful then please share this and follow me and star this repo.So this would be more useful for others.
+# sharing is caring 
